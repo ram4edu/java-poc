@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.americanfirstfinance.account.controller.AccountListControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-09T18:45:42" hostname="RAMYERRAMSETTY" time="11.085">
+  <properties/>
+  <testcase name="testAccountListEndpoint()" classname="com.americanfirstfinance.account.controller.AccountListControllerTest" time="11.085"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Feb 10, 2021 12:14:30 AM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.1.Final
+Feb 10, 2021 12:14:33 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate ORM core version 5.4.22.Final
+Feb 10, 2021 12:14:35 AM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 6.1.6.Final
+Feb 10, 2021 12:14:36 AM org.hibernate.jpa.internal.util.LogHelper logPersistenceUnitInformation
+INFO: HHH000204: Processing PersistenceUnitInfo [name: <default>]
+Feb 10, 2021 12:14:36 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate ORM core version 5.4.22.Final
+Feb 10, 2021 12:14:36 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Feb 10, 2021 12:14:36 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.DB2400Dialect
+Feb 10, 2021 12:14:37 AM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.1.Final
+Feb 10, 2021 12:14:38 AM org.hibernate.resource.beans.spi.ManagedBeanRegistryInitiator resolveBeanContainer
+INFO: HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+Feb 10, 2021 12:15:42 AM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Quarkus 1.9.2.Final on JVM started in 72.445s. Listening on: http://0.0.0.0:8081
+Feb 10, 2021 12:15:42 AM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Profile test activated. 
+Feb 10, 2021 12:15:42 AM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Installed features: [agroal, cdi, hibernate-orm, hibernate-validator, jdbc-db2, mutiny, narayana-jta, resteasy, resteasy-jsonb, smallrye-context-propagation, smallrye-openapi, swagger-ui]
+]]></system-err>
+</testsuite>
